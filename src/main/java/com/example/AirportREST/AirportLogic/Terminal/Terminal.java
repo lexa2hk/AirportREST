@@ -29,7 +29,7 @@ import java.util.Iterator;
 public class Terminal implements logger {
 
     @Autowired
-    private AircraftTermService aircraftService;
+    private AircraftService aircraftService;
 
 
     private enum Status{OPEN, CLOSE};
@@ -72,7 +72,22 @@ public class Terminal implements logger {
         aircraftEntity.setAircraftmodel(aircraft.model);
         aircraftEntity.setFlightcode(flightCode);
 
-        aircraftService.addAircraft(aircraftEntity);
+        if(aircraft.status.toString().equals("FLIGHT")){
+            aircraftEntity.setCurrentstatus("IN_AIR");
+        }else{
+            aircraftEntity.setCurrentstatus("PARKED");
+        }
+
+        Integer parkingPlace=aircraftService.findFreeParkingPlace();
+
+        if(parkingPlace!=null) {
+            aircraftEntity.setParkingplace(parkingPlace);
+            aircraftService.claimParkingPlace(parkingPlace);
+            aircraftService.addAircraft(aircraftEntity);
+        }
+
+
+
 
 
     }

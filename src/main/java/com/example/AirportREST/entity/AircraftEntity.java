@@ -18,8 +18,7 @@ public class AircraftEntity {
 
     //status section
     private String flightcode;
-    private String eventtype;
-    private String dateofevent;
+
     private String currentstatus;
 
     public AircraftEntity() {
@@ -99,21 +98,6 @@ public class AircraftEntity {
         this.flightcode = flightcode;
     }
 
-    public String getEventtype() {
-        return eventtype;
-    }
-
-    public void setEventtype(String eventtype) {
-        this.eventtype = eventtype;
-    }
-
-    public String getDateofevent() {
-        return dateofevent;
-    }
-
-    public void setDateofevent(String dateofevent) {
-        this.dateofevent = dateofevent;
-    }
 
     public String getCurrentstatus() {
         return currentstatus;

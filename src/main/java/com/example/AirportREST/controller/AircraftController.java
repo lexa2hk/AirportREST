@@ -23,6 +23,16 @@ public class AircraftController {
         }
     }
 
+
+    @GetMapping("/findFreeParkingPlace")
+    public ResponseEntity findFreeParkingPlace(){
+        try {
+            return ResponseEntity.ok(aircraftService.findFreeParkingPlace());
+        }catch (Exception e){
+            return ResponseEntity.badRequest().body(e.getMessage());
+        }
+    }
+
     @GetMapping("/getAll")
     public ResponseEntity getAllAircraft(){
         try {

@@ -34,13 +34,14 @@ public class Application {
 
     @Autowired
     public Application(AircraftService aircraftService) {
+        aircraftService.eraseAll();
         this.aircraftService = aircraftService;
 //        this.terminal=new Terminal();
         this.gen=new EventGenerator();
         this.eventQueue=new ArrayDeque<>();
     }
 
-    @Scheduled(fixedRate = 1000)
+    @Scheduled(fixedRate = 100)
     public void handleAirport() throws AircraftAlreadyExists {
         gen.tryCreateRandomEvent(eventQueue);
         terminal.handleEvent(eventQueue);

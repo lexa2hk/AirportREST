@@ -7,11 +7,22 @@ import com.example.AirportREST.repository.AircraftRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.HashMap;
+import java.util.Map;
+
 @Service
 public class AircraftService {
 
     @Autowired
     private AircraftRepo aircraftRepo;
+
+    HashMap<Integer, Boolean> parkingMap = new HashMap<Integer, Boolean>();
+
+    public AircraftService() {
+        for(int i=0;i<26;i++) {
+            parkingMap.put(i, false);
+        }
+    }
 
     public AircraftEntity addAircraft(AircraftEntity aircraftEntity) throws AircraftAlreadyExists {
         if(aircraftRepo.findByFlightcode(aircraftEntity.getFlightcode()) != null){
@@ -29,5 +40,20 @@ public class AircraftService {
     }
 
 
+    public Integer findFreeParkingPlace() {
+        return parkingMap.entrySet().stream()
+                .filter(entry -> entry.getValue().equals(false))
+                .map(Map.Entry::getKey)
+                .findFirst()
+                .orElse(null);
+    }
 
+    public Integer claimParkingPlace(Integer parkingPlace) {
+        parkingMap.put(parkingPlace, true);
+        return parkingPlace;
+    }
+
+    public void eraseAll() {
+        aircraftRepo.deleteAll();
+    }
 }
