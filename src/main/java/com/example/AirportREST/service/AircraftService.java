@@ -2,6 +2,7 @@ package com.example.AirportREST.service;
 
 import com.example.AirportREST.entity.AircraftEntity;
 import com.example.AirportREST.exception.AircraftAlreadyExists;
+import com.example.AirportREST.exception.AircraftNotFoundException;
 import com.example.AirportREST.repository.AircraftRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -19,12 +20,14 @@ public class AircraftService {
         return aircraftRepo.save(aircraftEntity);
     }
 
-    public Iterable<AircraftEntity> findAll() throws NullPointerException{
-        try{
-            Iterable<AircraftEntity> ob = aircraftRepo.findAll();
-            return ob;
-        }catch (Exception e) {
-            throw new NullPointerException("No aircrafts found MSG: " + e.getMessage());
+    public Iterable<AircraftEntity> findAll() throws AircraftNotFoundException {
+        if(aircraftRepo.findAll() == null){
+            throw new AircraftNotFoundException("No aircrafts found");
+        }else{
+            return aircraftRepo.findAll();
         }
     }
+
+
+
 }

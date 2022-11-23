@@ -1,9 +1,9 @@
 package com.example.AirportREST.AirportLogic.EventGenerator;
 
-import Aircraft.Airplane.Airplane;
-import Aircraft.Helicopter.Helicopter;
-import AirportDB.AirportDBmySQL;
-import Terminal.Terminal;
+
+import com.example.AirportREST.AirportLogic.Aircraft.Airplane.Airplane;
+import com.example.AirportREST.AirportLogic.Aircraft.Helicopter.Helicopter;
+import com.example.AirportREST.AirportLogic.Terminal.Terminal;
 
 import java.sql.SQLException;
 import java.util.ArrayDeque;
@@ -11,7 +11,7 @@ import java.util.Queue;
 import java.util.Random;
 
 public class EventGenerator {
-    AirportDBmySQL database;
+//    AirportDBmySQL database;
     Terminal terminal;
 
     protected final double _plane_const = 0.3;
@@ -23,8 +23,8 @@ public class EventGenerator {
     protected String[] _status_spawn = {"FLIGHT", "PARKING"};
     protected String[] _event_type = {"LANDING","TAKEOFF"};
 
-    public EventGenerator(AirportDBmySQL database, Terminal terminal){
-        this.database = database;
+    public EventGenerator( Terminal terminal){
+//        this.database = database;
         this.terminal=terminal;
     }
 

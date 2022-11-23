@@ -1,8 +1,8 @@
 package com.example.AirportREST.AirportLogic.Aircraft.Helicopter;
 
-import Aircraft.Aircraft;
-import Aircraft.Interface.AircraftOptions;
-import logger.logger;
+import com.example.AirportREST.AirportLogic.Aircraft.Aircraft;
+import com.example.AirportREST.AirportLogic.Aircraft.Interface.AircraftOptions;
+import com.example.AirportREST.AirportLogic.EventGenerator.logger.logger;
 
 public class Helicopter extends Aircraft implements AircraftOptions, logger {
     public Helicopter(String status, String type, String model) {

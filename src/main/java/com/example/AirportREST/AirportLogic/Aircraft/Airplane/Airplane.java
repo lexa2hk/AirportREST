@@ -1,8 +1,9 @@
 package com.example.AirportREST.AirportLogic.Aircraft.Airplane;
 
-import Aircraft.Aircraft;
-import Aircraft.Interface.AircraftOptions;
-import logger.logger;
+
+import com.example.AirportREST.AirportLogic.Aircraft.Aircraft;
+import com.example.AirportREST.AirportLogic.Aircraft.Interface.AircraftOptions;
+import com.example.AirportREST.AirportLogic.EventGenerator.logger.logger;
 
 
 public class Airplane extends Aircraft implements AircraftOptions, logger {
