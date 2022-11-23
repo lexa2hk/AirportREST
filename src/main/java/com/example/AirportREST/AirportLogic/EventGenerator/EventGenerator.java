@@ -4,14 +4,22 @@ package com.example.AirportREST.AirportLogic.EventGenerator;
 import com.example.AirportREST.AirportLogic.Aircraft.Airplane.Airplane;
 import com.example.AirportREST.AirportLogic.Aircraft.Helicopter.Helicopter;
 import com.example.AirportREST.AirportLogic.Terminal.Terminal;
+import com.example.AirportREST.exception.AircraftAlreadyExists;
+import com.example.AirportREST.service.AircraftService;
+import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.sql.SQLException;
 import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.Random;
 
+@Component
 public class EventGenerator {
 //    AirportDBmySQL database;
+    @Autowired
     Terminal terminal;
 
     protected final double _plane_const = 0.3;
@@ -23,19 +31,18 @@ public class EventGenerator {
     protected String[] _status_spawn = {"FLIGHT", "PARKING"};
     protected String[] _event_type = {"LANDING","TAKEOFF"};
 
-    public EventGenerator( Terminal terminal){
-//        this.database = database;
-        this.terminal=terminal;
+    public EventGenerator(){
+
     }
 
-    public void createEventAirplane(String flightCode, String eventType, String city, String status, String type, String model) throws SQLException {
+    public void createEventAirplane(String flightCode, String eventType, String city, String status, String type, String model) throws AircraftAlreadyExists{
 
         Airplane plane=new Airplane(status, type, model);
         terminal.addEvent(flightCode,eventType,city,plane);
         //вызвать анимацию на полосе
     }
 
-    public void createEventHelicopter(String flightCode, String eventType, String city, String status, String type, String model) throws SQLException {
+    public void createEventHelicopter(String flightCode, String eventType, String city, String status, String type, String model) throws AircraftAlreadyExists {
 
         Helicopter heli=new Helicopter(status, type, model);
         terminal.addEvent(flightCode,eventType,city,heli);
@@ -50,11 +57,11 @@ public class EventGenerator {
         String n2 = String.valueOf(r.nextInt(10));
         String n3 = String.valueOf(r.nextInt(10));
         String n4 = String.valueOf(r.nextInt(10));
-        System.out.println(c1+c2+n1+n2+n3+n4);
+//        System.out.println(c1+c2+n1+n2+n3+n4);
         return c1+c2+n1+n2+n3+n4;
     }
 
-    public Boolean tryCreateRandomEvent(ArrayDeque<String> eventQueue) throws SQLException {
+    public Boolean tryCreateRandomEvent(ArrayDeque<String> eventQueue)  throws AircraftAlreadyExists{
         double random = Math.random();
         if (random < _plane_const) {
             String flightCode=createFlightCode();

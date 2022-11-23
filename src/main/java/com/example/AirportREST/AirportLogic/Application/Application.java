@@ -4,6 +4,11 @@ package com.example.AirportREST.AirportLogic.Application;
 import com.example.AirportREST.AirportLogic.EventGenerator.EventGenerator;
 import com.example.AirportREST.AirportLogic.Terminal.Terminal;
 import com.example.AirportREST.AirportLogic.EventGenerator.logger.logger;
+import com.example.AirportREST.exception.AircraftAlreadyExists;
+import com.example.AirportREST.service.AircraftService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.scheduling.annotation.Scheduled;
+import org.springframework.stereotype.Service;
 
 import java.sql.Timestamp;
 import java.util.*;
@@ -13,35 +18,33 @@ import java.util.Date;
 
 import static java.lang.Thread.sleep;
 
-
+@Service
 public class Application {
+    private AircraftService aircraftService;
 
 //    private AirportDBmySQL db;
+
+    @Autowired
     private Terminal terminal;
+
+    @Autowired
     private EventGenerator gen;
 
     private ArrayDeque<String> eventQueue;
 
-    public void startApp() throws SQLException, ClassNotFoundException, InterruptedException {
-//        this.db = new AirportDBmySQL();
-//        db.checkConnection();
-        Date date=new Date();
-        long millis=date.getTime();
-
-//        this.terminal = new Terminal("OPEN",db);
-//        this.gen = new EventGenerator(db, terminal);
-        this.eventQueue=new ArrayDeque<String>();
-
-        while(true) {
-//            if (date.getTime() - millis >= 1000) {
-                millis = date.getTime();
-                logger.log("Trying create new event");
-                Timestamp timestamp = new Timestamp(date.getTime());
-//                gen.tryCreateRandomEvent(eventQueue);
-                terminal.handleEvent(eventQueue);
-
-//            }
-            Thread.sleep(1000);
-        }
+    @Autowired
+    public Application(AircraftService aircraftService) {
+        this.aircraftService = aircraftService;
+//        this.terminal=new Terminal();
+        this.gen=new EventGenerator();
+        this.eventQueue=new ArrayDeque<>();
     }
+
+    @Scheduled(fixedRate = 1000)
+    public void handleAirport() throws AircraftAlreadyExists {
+        gen.tryCreateRandomEvent(eventQueue);
+        terminal.handleEvent(eventQueue);
+    }
+
+
 }

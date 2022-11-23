@@ -14,7 +14,7 @@ public class AircraftService {
     private AircraftRepo aircraftRepo;
 
     public AircraftEntity addAircraft(AircraftEntity aircraftEntity) throws AircraftAlreadyExists {
-        if(aircraftRepo.findByNum(aircraftEntity.getNum()) != null){
+        if(aircraftRepo.findByFlightcode(aircraftEntity.getFlightcode()) != null){
             throw new AircraftAlreadyExists("Aircraft with this number already exists");
         }
         return aircraftRepo.save(aircraftEntity);
