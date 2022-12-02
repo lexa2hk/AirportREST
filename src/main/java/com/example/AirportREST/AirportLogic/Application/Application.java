@@ -42,12 +42,12 @@ public class Application {
         this.eventQueue=new ArrayDeque<>();
     }
 
-    @Scheduled(fixedRate = 3000)
+    @Scheduled(fixedRate = 300)
     public void createEvent() throws AircraftAlreadyExists {
         gen.tryCreateRandomEvent(eventQueue);
     }
 
-    @Scheduled(fixedRate = 3000)
+    @Scheduled(fixedRate = 300)
     public void processEvent() {
         terminal.handleEvent(eventQueue);
     }

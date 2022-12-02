@@ -7,6 +7,7 @@ import com.example.AirportREST.repository.AircraftRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -17,6 +18,13 @@ public class AircraftService {
     private AircraftRepo aircraftRepo;
 
     HashMap<Integer, Boolean> parkingMap = new HashMap<Integer, Boolean>();
+
+    Comparator<AircraftEntity> comparator = new Comparator<AircraftEntity>() {
+        @Override
+        public int compare(AircraftEntity o1, AircraftEntity o2) {
+            return o1.getFlightcode().compareTo(o2.getFlightcode());
+        }
+    };
 
     public AircraftService() {
         for(int i=0;i<26;i++) {
@@ -30,6 +38,7 @@ public class AircraftService {
         }
         return aircraftRepo.save(aircraftEntity);
     }
+
 
     public Iterable<AircraftEntity> findAll() throws AircraftNotFoundException {
         if(aircraftRepo.findAll() == null){
@@ -53,6 +62,10 @@ public class AircraftService {
         return parkingPlace;
     }
 
+    public Integer freeParkingPlace(Integer parkingPlace) {
+        parkingMap.put(parkingPlace, false);
+        return parkingPlace;
+    }
     public void eraseAll() {
         aircraftRepo.deleteAll();
     }

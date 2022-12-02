@@ -168,6 +168,8 @@ public class Terminal implements logger {
 
         AircraftEntity aircraft=aircraftRepo.findByFlightcode(flightCode);
         if(aircraft==null){
+            logger.log("AIRCRAFT NOT FOUND UNDEFINED BEHAVIOUR AT" + flightCode);
+            eventQueue.removeFirst();
             return;
         }
         String[] taxiways=getCorrectTaxiways(aircraft.getType(),aircraft.getParkingplace());
@@ -198,12 +200,16 @@ public class Terminal implements logger {
                 eventQueue.removeFirst();
                 eventQueue.addLast(flightCode);
             }else if(aircraft.getStatus().equals("TAXIING")){
-                message = aircraft.getFlightcode() + " is parked on place " + aircraft.getParkingplace();
+                message = aircraft.getFlightcode() + " is parked on place " + aircraft.getParkingplace()+1;
                 aircraft.setStatus("PARKED");
                 aircraftRepo.save(aircraft);
                 eventQueue.removeFirst();
+                //free parking place of map
+                aircraftService.freeParkingPlace(aircraft.getParkingplace());
+
                 //remove aircraft from database
                 aircraftRepo.delete(aircraft);
+
             }
 
         }
@@ -234,6 +240,8 @@ public class Terminal implements logger {
             }else if(aircraft.getStatus().equals("FLIGHT")){
                 message = aircraft.getFlightcode() + " is leaving zone. Goodbye!";
                 eventQueue.removeFirst();
+                //free parking place of map
+                aircraftService.freeParkingPlace(aircraft.getParkingplace());
                 //remove aircraft from database
                 aircraftRepo.delete(aircraft);
 
