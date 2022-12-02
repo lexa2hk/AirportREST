@@ -20,6 +20,7 @@ import static java.lang.Thread.sleep;
 
 @Service
 public class Application {
+    @Autowired
     private AircraftService aircraftService;
 
 //    private AirportDBmySQL db;
@@ -41,9 +42,13 @@ public class Application {
         this.eventQueue=new ArrayDeque<>();
     }
 
-    @Scheduled(fixedRate = 100)
-    public void handleAirport() throws AircraftAlreadyExists {
+    @Scheduled(fixedRate = 3000)
+    public void createEvent() throws AircraftAlreadyExists {
         gen.tryCreateRandomEvent(eventQueue);
+    }
+
+    @Scheduled(fixedRate = 3000)
+    public void processEvent() {
         terminal.handleEvent(eventQueue);
     }
 
