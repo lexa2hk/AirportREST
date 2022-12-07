@@ -15,6 +15,7 @@ import com.example.AirportREST.exception.AircraftAlreadyExists;
 import com.example.AirportREST.repository.AircraftRepo;
 import com.example.AirportREST.service.AircraftService;
 import com.example.AirportREST.service.AircraftTermService;
+import com.example.AirportREST.service.MessageService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -32,6 +33,9 @@ public class Terminal implements logger {
     private AircraftService aircraftService;
 
     @Autowired
+    private MessageService messageService;
+
+    @Autowired
     private AircraftRepo aircraftRepo;
 
 
@@ -46,10 +50,6 @@ public class Terminal implements logger {
 
     //create map which show taxiways is free or not
     private HashMap<String, Boolean> taxiways = new HashMap<String,Boolean>();
-
-
-
-
 
 
     public Terminal() {
@@ -251,6 +251,7 @@ public class Terminal implements logger {
             message = "Unknown event type";
         }
         logger.log(message);
+        messageService.setMessage(message);
 
 
     }
