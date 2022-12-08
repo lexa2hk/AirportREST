@@ -69,3 +69,528 @@ JR8057 is taxiing by path 10 PARK C M D  Thu Dec 08 20:23:59 MSK 2022
 DI2369 is taxiing by path 10 A M PARK  Thu Dec 08 20:24:02 MSK 2022
 FE2545 is taxiing by path 10 PARK C M D  Thu Dec 08 20:24:05 MSK 2022
 HB8476 is taxiing by path 10 PARK C M D  Thu Dec 08 20:24:08 MSK 2022
+MX9080 is waiting for landing line Thu Dec 08 20:25:37 MSK 2022
+WQ0473 is taxiing by path 10 PARK B M A  Thu Dec 08 20:25:40 MSK 2022
+XM8175 is taxiing by path 10 PARK B M A  Thu Dec 08 20:25:43 MSK 2022
+MS6331 is waiting for landing line Thu Dec 08 20:25:46 MSK 2022
+KB7310 is waiting for landing line Thu Dec 08 20:25:49 MSK 2022
+MX9080 is taxiing by path 10 A M PARK  Thu Dec 08 20:25:52 MSK 2022
+VT7875 is waiting for landing line Thu Dec 08 20:30:42 MSK 2022
+VT7875 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:42 MSK 2022
+VT7875 is parked on place 01 Thu Dec 08 20:30:43 MSK 2022
+ME0647 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:43 MSK 2022
+RS3422 is waiting for landing line Thu Dec 08 20:30:43 MSK 2022
+ME0647 is taking off Thu Dec 08 20:30:44 MSK 2022
+RS3422 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:44 MSK 2022
+JX7835 is waiting for landing line Thu Dec 08 20:30:44 MSK 2022
+ME0647 is leaving zone. Goodbye! Thu Dec 08 20:30:44 MSK 2022
+DL8183 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:45 MSK 2022
+RS3422 is parked on place 01 Thu Dec 08 20:30:45 MSK 2022
+JX7835 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:45 MSK 2022
+WA3021 is waiting for landing line Thu Dec 08 20:30:46 MSK 2022
+DL8183 is taking off Thu Dec 08 20:30:46 MSK 2022
+SV8746 is waiting for landing line Thu Dec 08 20:30:46 MSK 2022
+JX7835 is parked on place 21 Thu Dec 08 20:30:47 MSK 2022
+WA3021 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:47 MSK 2022
+MK9813 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:47 MSK 2022
+DL8183 is leaving zone. Goodbye! Thu Dec 08 20:30:47 MSK 2022
+VL9858 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:48 MSK 2022
+SV8746 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:48 MSK 2022
+PR9933 is waiting for landing line Thu Dec 08 20:30:48 MSK 2022
+WA3021 is parked on place 41 Thu Dec 08 20:30:49 MSK 2022
+RT8192 is waiting for landing line Thu Dec 08 20:30:49 MSK 2022
+MK9813 is taking off Thu Dec 08 20:30:49 MSK 2022
+NI6688 is waiting for landing line Thu Dec 08 20:30:50 MSK 2022
+VL9858 is taking off Thu Dec 08 20:30:50 MSK 2022
+SV8746 is parked on place 11 Thu Dec 08 20:30:50 MSK 2022
+AN1275 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:50 MSK 2022
+PR9933 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:51 MSK 2022
+RT8192 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:51 MSK 2022
+MK9813 is leaving zone. Goodbye! Thu Dec 08 20:30:51 MSK 2022
+NI6688 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:52 MSK 2022
+VL9858 is leaving zone. Goodbye! Thu Dec 08 20:30:52 MSK 2022
+AN1275 is taking off Thu Dec 08 20:30:52 MSK 2022
+CG4113 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:53 MSK 2022
+PR9933 is parked on place 21 Thu Dec 08 20:30:53 MSK 2022
+RT8192 is parked on place 61 Thu Dec 08 20:30:53 MSK 2022
+NI6688 is parked on place 71 Thu Dec 08 20:30:53 MSK 2022
+AN1275 is leaving zone. Goodbye! Thu Dec 08 20:30:54 MSK 2022
+CG4113 is taking off Thu Dec 08 20:30:54 MSK 2022
+CG4113 is leaving zone. Goodbye! Thu Dec 08 20:30:54 MSK 2022
+QY3936 is waiting for landing line Thu Dec 08 20:30:55 MSK 2022
+QY3936 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:55 MSK 2022
+JW7304 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:55 MSK 2022
+QY3936 is parked on place 01 Thu Dec 08 20:30:56 MSK 2022
+JW7304 is taking off Thu Dec 08 20:30:56 MSK 2022
+JW7304 is leaving zone. Goodbye! Thu Dec 08 20:30:56 MSK 2022
+KG7805 is waiting for landing line Thu Dec 08 20:30:56 MSK 2022
+KG7805 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:57 MSK 2022
+KG7805 is parked on place 01 Thu Dec 08 20:30:57 MSK 2022
+CM9090 is waiting for landing line Thu Dec 08 20:30:58 MSK 2022
+CM9090 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:58 MSK 2022
+SH9428 is waiting for landing line Thu Dec 08 20:30:58 MSK 2022
+CM9090 is parked on place 01 Thu Dec 08 20:30:59 MSK 2022
+RY0646 is taxiing by path 10 PARK B M A  Thu Dec 08 20:30:59 MSK 2022
+SH9428 is taxiing by path 10 A M PARK  Thu Dec 08 20:30:59 MSK 2022
+RY0646 is taking off Thu Dec 08 20:30:59 MSK 2022
+SH9428 is parked on place 11 Thu Dec 08 20:31:00 MSK 2022
+RY0646 is leaving zone. Goodbye! Thu Dec 08 20:31:00 MSK 2022
+VF1489 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:00 MSK 2022
+CA3713 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:01 MSK 2022
+VF1489 is taking off Thu Dec 08 20:31:01 MSK 2022
+CA3713 is taking off Thu Dec 08 20:31:01 MSK 2022
+VF1489 is leaving zone. Goodbye! Thu Dec 08 20:31:02 MSK 2022
+CA3713 is leaving zone. Goodbye! Thu Dec 08 20:31:02 MSK 2022
+GN8671 is waiting for landing line Thu Dec 08 20:31:03 MSK 2022
+GN8671 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:03 MSK 2022
+IJ6145 is waiting for landing line Thu Dec 08 20:31:03 MSK 2022
+GN8671 is parked on place 01 Thu Dec 08 20:31:04 MSK 2022
+IJ6145 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:04 MSK 2022
+IJ6145 is parked on place 11 Thu Dec 08 20:31:04 MSK 2022
+FS2149 is waiting for landing line Thu Dec 08 20:31:05 MSK 2022
+FS2149 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:05 MSK 2022
+FS2149 is parked on place 01 Thu Dec 08 20:31:05 MSK 2022
+NZ4244 is waiting for landing line Thu Dec 08 20:31:06 MSK 2022
+XW2206 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:06 MSK 2022
+NZ4244 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:06 MSK 2022
+XW2206 is taking off Thu Dec 08 20:31:07 MSK 2022
+NZ4244 is parked on place 11 Thu Dec 08 20:31:07 MSK 2022
+XW2206 is leaving zone. Goodbye! Thu Dec 08 20:31:07 MSK 2022
+UB5909 is waiting for landing line Thu Dec 08 20:31:09 MSK 2022
+UB5909 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:09 MSK 2022
+DS6803 is waiting for landing line Thu Dec 08 20:31:10 MSK 2022
+UB5909 is parked on place 01 Thu Dec 08 20:31:10 MSK 2022
+LT0967 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:10 MSK 2022
+DS6803 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:11 MSK 2022
+YZ6564 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:11 MSK 2022
+MW2938 is waiting for landing line Thu Dec 08 20:31:11 MSK 2022
+LT0967 is taking off Thu Dec 08 20:31:11 MSK 2022
+DS6803 is parked on place 11 Thu Dec 08 20:31:12 MSK 2022
+YZ6564 is taking off Thu Dec 08 20:31:12 MSK 2022
+MW2938 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:12 MSK 2022
+LT0967 is leaving zone. Goodbye! Thu Dec 08 20:31:13 MSK 2022
+IQ4997 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:13 MSK 2022
+YZ6564 is leaving zone. Goodbye! Thu Dec 08 20:31:13 MSK 2022
+MW2938 is parked on place 01 Thu Dec 08 20:31:14 MSK 2022
+IQ4997 is taking off Thu Dec 08 20:31:14 MSK 2022
+KV6923 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:14 MSK 2022
+IQ4997 is leaving zone. Goodbye! Thu Dec 08 20:31:14 MSK 2022
+KV6923 is taking off Thu Dec 08 20:31:15 MSK 2022
+ND3343 is waiting for landing line Thu Dec 08 20:31:15 MSK 2022
+FY7001 is waiting for landing line Thu Dec 08 20:31:15 MSK 2022
+KV6923 is leaving zone. Goodbye! Thu Dec 08 20:31:16 MSK 2022
+ND3343 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:16 MSK 2022
+BO2630 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:16 MSK 2022
+FY7001 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:17 MSK 2022
+GB9163 is waiting for landing line Thu Dec 08 20:31:17 MSK 2022
+ND3343 is parked on place 01 Thu Dec 08 20:31:17 MSK 2022
+BO2630 is taking off Thu Dec 08 20:31:17 MSK 2022
+FY7001 is parked on place 11 Thu Dec 08 20:31:18 MSK 2022
+GB9163 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:18 MSK 2022
+BO2630 is leaving zone. Goodbye! Thu Dec 08 20:31:18 MSK 2022
+GB9163 is parked on place 41 Thu Dec 08 20:31:19 MSK 2022
+DS9521 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:19 MSK 2022
+DS9521 is taking off Thu Dec 08 20:31:20 MSK 2022
+DS9521 is leaving zone. Goodbye! Thu Dec 08 20:31:20 MSK 2022
+XA3346 is waiting for landing line Thu Dec 08 20:31:32 MSK 2022
+XA3346 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:32 MSK 2022
+XA3346 is parked on place 01 Thu Dec 08 20:31:33 MSK 2022
+NK4647 is waiting for landing line Thu Dec 08 20:31:33 MSK 2022
+HN5101 is waiting for landing line Thu Dec 08 20:31:33 MSK 2022
+NK4647 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:34 MSK 2022
+HN5101 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:34 MSK 2022
+NK4647 is parked on place 11 Thu Dec 08 20:31:34 MSK 2022
+HN5101 is parked on place 01 Thu Dec 08 20:31:35 MSK 2022
+GE6116 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:35 MSK 2022
+GE6116 is taking off Thu Dec 08 20:31:35 MSK 2022
+CM9838 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:36 MSK 2022
+GE6116 is leaving zone. Goodbye! Thu Dec 08 20:31:36 MSK 2022
+CM9838 is taking off Thu Dec 08 20:31:36 MSK 2022
+OW6090 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:37 MSK 2022
+NQ7862 is waiting for landing line Thu Dec 08 20:31:37 MSK 2022
+CM9838 is leaving zone. Goodbye! Thu Dec 08 20:31:37 MSK 2022
+OW6090 is taking off Thu Dec 08 20:31:38 MSK 2022
+NQ7862 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:38 MSK 2022
+OW6090 is leaving zone. Goodbye! Thu Dec 08 20:31:38 MSK 2022
+NQ7862 is parked on place 01 Thu Dec 08 20:31:38 MSK 2022
+VS8908 is waiting for landing line Thu Dec 08 20:31:39 MSK 2022
+DW6831 is waiting for landing line Thu Dec 08 20:31:39 MSK 2022
+VS8908 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:39 MSK 2022
+SW8317 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:40 MSK 2022
+DW6831 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:40 MSK 2022
+VS8908 is parked on place 11 Thu Dec 08 20:31:40 MSK 2022
+LL8343 is waiting for landing line Thu Dec 08 20:31:41 MSK 2022
+SW8317 is taking off Thu Dec 08 20:31:41 MSK 2022
+DW6831 is parked on place 21 Thu Dec 08 20:31:41 MSK 2022
+LL8343 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:41 MSK 2022
+SW8317 is leaving zone. Goodbye! Thu Dec 08 20:31:42 MSK 2022
+KV5857 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:42 MSK 2022
+LL8343 is parked on place 31 Thu Dec 08 20:31:42 MSK 2022
+AH5725 is waiting for landing line Thu Dec 08 20:31:43 MSK 2022
+KV5857 is taking off Thu Dec 08 20:31:43 MSK 2022
+PU0262 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:43 MSK 2022
+AH5725 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:44 MSK 2022
+KV5857 is leaving zone. Goodbye! Thu Dec 08 20:31:44 MSK 2022
+PU0262 is taking off Thu Dec 08 20:31:44 MSK 2022
+AH5725 is parked on place 01 Thu Dec 08 20:31:44 MSK 2022
+LB7940 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:45 MSK 2022
+PU0262 is leaving zone. Goodbye! Thu Dec 08 20:31:45 MSK 2022
+KN0349 is waiting for landing line Thu Dec 08 20:31:45 MSK 2022
+DO4409 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:46 MSK 2022
+LB7940 is taking off Thu Dec 08 20:31:46 MSK 2022
+TG6446 is waiting for landing line Thu Dec 08 20:31:46 MSK 2022
+KN0349 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:47 MSK 2022
+DO4409 is taking off Thu Dec 08 20:31:47 MSK 2022
+WF1808 is waiting for landing line Thu Dec 08 20:31:47 MSK 2022
+LB7940 is leaving zone. Goodbye! Thu Dec 08 20:31:47 MSK 2022
+TG6446 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:48 MSK 2022
+KN0349 is parked on place 31 Thu Dec 08 20:31:48 MSK 2022
+DO4409 is leaving zone. Goodbye! Thu Dec 08 20:31:48 MSK 2022
+XR0345 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:49 MSK 2022
+WF1808 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:49 MSK 2022
+CB5528 is waiting for landing line Thu Dec 08 20:31:49 MSK 2022
+TG6446 is parked on place 41 Thu Dec 08 20:31:50 MSK 2022
+DG1340 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:50 MSK 2022
+XR0345 is taking off Thu Dec 08 20:31:50 MSK 2022
+WF1808 is parked on place 21 Thu Dec 08 20:31:50 MSK 2022
+CB5528 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:51 MSK 2022
+VS7999 is waiting for landing line Thu Dec 08 20:31:51 MSK 2022
+DG1340 is taking off Thu Dec 08 20:31:51 MSK 2022
+XR0345 is leaving zone. Goodbye! Thu Dec 08 20:31:52 MSK 2022
+JU0861 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:52 MSK 2022
+CB5528 is parked on place 61 Thu Dec 08 20:31:52 MSK 2022
+XK5561 is waiting for landing line Thu Dec 08 20:31:53 MSK 2022
+VS7999 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:53 MSK 2022
+DG1340 is leaving zone. Goodbye! Thu Dec 08 20:31:53 MSK 2022
+JU0861 is taking off Thu Dec 08 20:31:53 MSK 2022
+OE4016 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:54 MSK 2022
+XK5561 is taxiing by path 10 A M PARK  Thu Dec 08 20:31:54 MSK 2022
+VS7999 is parked on place 01 Thu Dec 08 20:31:54 MSK 2022
+DS1570 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:55 MSK 2022
+UZ3233 is waiting for landing line Thu Dec 08 20:31:55 MSK 2022
+JU0861 is leaving zone. Goodbye! Thu Dec 08 20:31:55 MSK 2022
+GR1524 is taxiing by path 10 PARK B M A  Thu Dec 08 20:31:56 MSK 2022
+OE4016 is taking off Thu Dec 08 20:31:56 MSK 2022
+DV7749 is waiting for landing line Thu Dec 08 20:32:57 MSK 2022
+DV7749 is taxiing by path 10 A M PARK  Thu Dec 08 20:32:57 MSK 2022
+XI1110 is taxiing by path 10 PARK B M A  Thu Dec 08 20:32:58 MSK 2022
+DV7749 is parked on place 01 Thu Dec 08 20:32:58 MSK 2022
+XI1110 is taking off Thu Dec 08 20:32:58 MSK 2022
+XI1110 is leaving zone. Goodbye! Thu Dec 08 20:32:59 MSK 2022
+SP2389 is waiting for landing line Thu Dec 08 20:32:59 MSK 2022
+SP2389 is taxiing by path 10 A M PARK  Thu Dec 08 20:32:59 MSK 2022
+SP2389 is parked on place 01 Thu Dec 08 20:33:00 MSK 2022
+KF8616 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:00 MSK 2022
+KF8616 is taking off Thu Dec 08 20:33:00 MSK 2022
+KF8616 is leaving zone. Goodbye! Thu Dec 08 20:33:00 MSK 2022
+WM1263 is waiting for landing line Thu Dec 08 20:33:01 MSK 2022
+DN6853 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:01 MSK 2022
+WM1263 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:01 MSK 2022
+DN6853 is taking off Thu Dec 08 20:33:02 MSK 2022
+WM1263 is parked on place 11 Thu Dec 08 20:33:02 MSK 2022
+DN6853 is leaving zone. Goodbye! Thu Dec 08 20:33:02 MSK 2022
+SL8273 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:03 MSK 2022
+CU0514 is waiting for landing line Thu Dec 08 20:33:03 MSK 2022
+SL8273 is taking off Thu Dec 08 20:33:03 MSK 2022
+RQ6773 is waiting for landing line Thu Dec 08 20:33:03 MSK 2022
+CU0514 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:04 MSK 2022
+SL8273 is leaving zone. Goodbye! Thu Dec 08 20:33:04 MSK 2022
+RQ6773 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:04 MSK 2022
+CU0514 is parked on place 01 Thu Dec 08 20:33:05 MSK 2022
+IX4637 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:05 MSK 2022
+RQ6773 is parked on place 21 Thu Dec 08 20:33:05 MSK 2022
+EQ1208 is waiting for landing line Thu Dec 08 20:33:06 MSK 2022
+FM9726 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:12 MSK 2022
+FM9726 is taking off Thu Dec 08 20:33:12 MSK 2022
+FM9726 is leaving zone. Goodbye! Thu Dec 08 20:33:13 MSK 2022
+FD9471 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:13 MSK 2022
+FD9471 is taking off Thu Dec 08 20:33:14 MSK 2022
+FD9471 is leaving zone. Goodbye! Thu Dec 08 20:33:14 MSK 2022
+JV9276 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:14 MSK 2022
+SF2378 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:15 MSK 2022
+JV9276 is taking off Thu Dec 08 20:33:15 MSK 2022
+SF2378 is taking off Thu Dec 08 20:33:15 MSK 2022
+JV9276 is leaving zone. Goodbye! Thu Dec 08 20:33:16 MSK 2022
+SF2378 is leaving zone. Goodbye! Thu Dec 08 20:33:16 MSK 2022
+NZ8773 is waiting for landing line Thu Dec 08 20:33:16 MSK 2022
+PK8270 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:16 MSK 2022
+NZ8773 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:17 MSK 2022
+PK8270 is taking off Thu Dec 08 20:33:17 MSK 2022
+NZ8773 is parked on place 11 Thu Dec 08 20:33:17 MSK 2022
+PK8270 is leaving zone. Goodbye! Thu Dec 08 20:33:18 MSK 2022
+KC2919 is waiting for landing line Thu Dec 08 20:33:18 MSK 2022
+KC2919 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:18 MSK 2022
+SS4544 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:18 MSK 2022
+KC2919 is parked on place 21 Thu Dec 08 20:33:19 MSK 2022
+SS4544 is taking off Thu Dec 08 20:33:19 MSK 2022
+SS4544 is leaving zone. Goodbye! Thu Dec 08 20:33:19 MSK 2022
+JQ4599 is waiting for landing line Thu Dec 08 20:33:20 MSK 2022
+JQ4599 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:21 MSK 2022
+JQ4599 is parked on place 01 Thu Dec 08 20:33:21 MSK 2022
+TE4282 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:21 MSK 2022
+TE4282 is taking off Thu Dec 08 20:33:22 MSK 2022
+WU6480 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:22 MSK 2022
+TE4282 is leaving zone. Goodbye! Thu Dec 08 20:33:22 MSK 2022
+WU6480 is taking off Thu Dec 08 20:33:23 MSK 2022
+NL4043 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:23 MSK 2022
+WU6480 is leaving zone. Goodbye! Thu Dec 08 20:33:23 MSK 2022
+NL4043 is taking off Thu Dec 08 20:33:24 MSK 2022
+LH7224 is waiting for landing line Thu Dec 08 20:33:24 MSK 2022
+NL4043 is leaving zone. Goodbye! Thu Dec 08 20:33:24 MSK 2022
+AD1544 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:24 MSK 2022
+LH7224 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:25 MSK 2022
+AD1544 is taking off Thu Dec 08 20:33:25 MSK 2022
+LH7224 is parked on place 21 Thu Dec 08 20:33:25 MSK 2022
+AD1544 is leaving zone. Goodbye! Thu Dec 08 20:33:26 MSK 2022
+MF7483 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:29 MSK 2022
+MF7483 is taking off Thu Dec 08 20:33:30 MSK 2022
+MF7483 is leaving zone. Goodbye! Thu Dec 08 20:33:30 MSK 2022
+SF6176 is waiting for landing line Thu Dec 08 20:33:31 MSK 2022
+SF6176 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:32 MSK 2022
+SF6176 is parked on place 01 Thu Dec 08 20:33:32 MSK 2022
+TZ8094 is waiting for landing line Thu Dec 08 20:33:33 MSK 2022
+TZ8094 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:33 MSK 2022
+JL6039 is waiting for landing line Thu Dec 08 20:33:34 MSK 2022
+TZ8094 is parked on place 01 Thu Dec 08 20:33:34 MSK 2022
+JL0647 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:34 MSK 2022
+JL6039 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:34 MSK 2022
+JL0647 is taking off Thu Dec 08 20:33:35 MSK 2022
+JM8954 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:35 MSK 2022
+JL6039 is parked on place 11 Thu Dec 08 20:33:35 MSK 2022
+ZX8755 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:36 MSK 2022
+JL0647 is leaving zone. Goodbye! Thu Dec 08 20:33:36 MSK 2022
+JM8954 is taking off Thu Dec 08 20:33:36 MSK 2022
+XS4722 is waiting for landing line Thu Dec 08 20:33:37 MSK 2022
+ZX8755 is taking off Thu Dec 08 20:33:37 MSK 2022
+OR3915 is waiting for landing line Thu Dec 08 20:33:37 MSK 2022
+JM8954 is leaving zone. Goodbye! Thu Dec 08 20:33:37 MSK 2022
+XS4722 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:38 MSK 2022
+ZX8755 is leaving zone. Goodbye! Thu Dec 08 20:33:38 MSK 2022
+OR3915 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:38 MSK 2022
+XS4722 is parked on place 11 Thu Dec 08 20:33:39 MSK 2022
+OR3915 is parked on place 21 Thu Dec 08 20:33:39 MSK 2022
+UI6039 is waiting for landing line Thu Dec 08 20:33:39 MSK 2022
+UI6039 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:40 MSK 2022
+UI6039 is parked on place 01 Thu Dec 08 20:33:40 MSK 2022
+OC6621 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:40 MSK 2022
+OC6621 is taking off Thu Dec 08 20:33:41 MSK 2022
+HQ4768 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:41 MSK 2022
+OC6621 is leaving zone. Goodbye! Thu Dec 08 20:33:41 MSK 2022
+MW4435 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:42 MSK 2022
+HQ4768 is taking off Thu Dec 08 20:33:42 MSK 2022
+YC2445 is waiting for landing line Thu Dec 08 20:33:42 MSK 2022
+MW4435 is taking off Thu Dec 08 20:33:42 MSK 2022
+AH4132 is waiting for landing line Thu Dec 08 20:33:43 MSK 2022
+HQ4768 is leaving zone. Goodbye! Thu Dec 08 20:33:43 MSK 2022
+YC2445 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:43 MSK 2022
+MW4435 is leaving zone. Goodbye! Thu Dec 08 20:33:44 MSK 2022
+AH4132 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:44 MSK 2022
+VK8689 is waiting for landing line Thu Dec 08 20:33:44 MSK 2022
+YC2445 is parked on place 01 Thu Dec 08 20:33:45 MSK 2022
+AE2110 is waiting for landing line Thu Dec 08 20:33:45 MSK 2022
+GQ7511 is waiting for landing line Thu Dec 08 20:33:45 MSK 2022
+AH4132 is parked on place 31 Thu Dec 08 20:33:46 MSK 2022
+NO8551 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:46 MSK 2022
+VK8689 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:46 MSK 2022
+CH2127 is waiting for landing line Thu Dec 08 20:33:46 MSK 2022
+AE2110 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:47 MSK 2022
+GQ7511 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:47 MSK 2022
+BR5677 is waiting for landing line Thu Dec 08 20:33:47 MSK 2022
+NO8551 is taking off Thu Dec 08 20:33:48 MSK 2022
+SB0128 is waiting for landing line Thu Dec 08 20:33:48 MSK 2022
+VK8689 is parked on place 11 Thu Dec 08 20:33:48 MSK 2022
+CH2127 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:48 MSK 2022
+AE2110 is parked on place 41 Thu Dec 08 20:33:49 MSK 2022
+GQ7511 is parked on place 21 Thu Dec 08 20:33:49 MSK 2022
+GY2882 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:49 MSK 2022
+BR5677 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:50 MSK 2022
+NO8551 is leaving zone. Goodbye! Thu Dec 08 20:33:50 MSK 2022
+SB0128 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:50 MSK 2022
+CH2127 is parked on place 61 Thu Dec 08 20:33:51 MSK 2022
+GY2882 is taking off Thu Dec 08 20:33:51 MSK 2022
+BR5677 is parked on place 01 Thu Dec 08 20:33:51 MSK 2022
+SB0128 is parked on place 31 Thu Dec 08 20:33:51 MSK 2022
+OB3932 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:52 MSK 2022
+YQ1418 is waiting for landing line Thu Dec 08 20:33:52 MSK 2022
+GY2882 is leaving zone. Goodbye! Thu Dec 08 20:33:52 MSK 2022
+ME5404 is waiting for landing line Thu Dec 08 20:33:53 MSK 2022
+OB3932 is taking off Thu Dec 08 20:33:53 MSK 2022
+IZ5499 is waiting for landing line Thu Dec 08 20:33:53 MSK 2022
+YQ1418 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:54 MSK 2022
+BB5780 is waiting for landing line Thu Dec 08 20:33:54 MSK 2022
+ME5404 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:54 MSK 2022
+OB3932 is leaving zone. Goodbye! Thu Dec 08 20:33:54 MSK 2022
+IZ5499 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:55 MSK 2022
+YQ1418 is parked on place 21 Thu Dec 08 20:33:55 MSK 2022
+BB5780 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:55 MSK 2022
+ME5404 is parked on place 41 Thu Dec 08 20:33:56 MSK 2022
+CI4697 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:56 MSK 2022
+IZ5499 is parked on place 01 Thu Dec 08 20:33:56 MSK 2022
+HU8758 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:57 MSK 2022
+BB5780 is parked on place 31 Thu Dec 08 20:33:57 MSK 2022
+CI4697 is taking off Thu Dec 08 20:33:57 MSK 2022
+BV7557 is waiting for landing line Thu Dec 08 20:33:57 MSK 2022
+HI3104 is waiting for landing line Thu Dec 08 20:33:58 MSK 2022
+HU8758 is taking off Thu Dec 08 20:33:58 MSK 2022
+OU4176 is taxiing by path 10 PARK B M A  Thu Dec 08 20:33:58 MSK 2022
+CI4697 is leaving zone. Goodbye! Thu Dec 08 20:33:59 MSK 2022
+BV7557 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:59 MSK 2022
+HI3104 is taxiing by path 10 A M PARK  Thu Dec 08 20:33:59 MSK 2022
+HU8758 is leaving zone. Goodbye! Thu Dec 08 20:34:00 MSK 2022
+IB7160 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:00 MSK 2022
+OU4176 is taking off Thu Dec 08 20:34:00 MSK 2022
+BV7557 is parked on place 21 Thu Dec 08 20:34:00 MSK 2022
+HI3104 is parked on place 01 Thu Dec 08 20:34:01 MSK 2022
+OA8357 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:01 MSK 2022
+GK4496 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:01 MSK 2022
+IB7160 is taking off Thu Dec 08 20:34:02 MSK 2022
+OU4176 is leaving zone. Goodbye! Thu Dec 08 20:34:02 MSK 2022
+IH8918 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:02 MSK 2022
+DK9967 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:03 MSK 2022
+ER2070 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:03 MSK 2022
+OA8357 is taking off Thu Dec 08 20:34:03 MSK 2022
+GK4496 is taking off Thu Dec 08 20:34:03 MSK 2022
+IB7160 is leaving zone. Goodbye! Thu Dec 08 20:34:04 MSK 2022
+IH8918 is taking off Thu Dec 08 20:34:04 MSK 2022
+DK9967 is taking off Thu Dec 08 20:34:04 MSK 2022
+ZV9454 is waiting for landing line Thu Dec 08 20:34:05 MSK 2022
+ER2070 is taking off Thu Dec 08 20:34:05 MSK 2022
+DG6957 is waiting for landing line Thu Dec 08 20:34:05 MSK 2022
+OA8357 is leaving zone. Goodbye! Thu Dec 08 20:34:06 MSK 2022
+RJ0085 is waiting for landing line Thu Dec 08 20:34:06 MSK 2022
+GK4496 is leaving zone. Goodbye! Thu Dec 08 20:34:06 MSK 2022
+BV5502 is waiting for landing line Thu Dec 08 20:34:06 MSK 2022
+IH8918 is leaving zone. Goodbye! Thu Dec 08 20:34:07 MSK 2022
+DK9967 is leaving zone. Goodbye! Thu Dec 08 20:34:07 MSK 2022
+ZV9454 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:07 MSK 2022
+ER2070 is leaving zone. Goodbye! Thu Dec 08 20:34:08 MSK 2022
+DG6957 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:08 MSK 2022
+LM4158 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:08 MSK 2022
+RJ0085 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:09 MSK 2022
+BV5502 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:09 MSK 2022
+CX1120 is waiting for landing line Thu Dec 08 20:34:09 MSK 2022
+ZV9454 is parked on place 41 Thu Dec 08 20:34:09 MSK 2022
+DG6957 is parked on place 71 Thu Dec 08 20:34:10 MSK 2022
+WX1290 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:10 MSK 2022
+LM4158 is taking off Thu Dec 08 20:34:10 MSK 2022
+LD6585 is waiting for landing line Thu Dec 08 20:34:11 MSK 2022
+RJ0085 is parked on place 81 Thu Dec 08 20:34:11 MSK 2022
+BV5502 is parked on place 91 Thu Dec 08 20:34:11 MSK 2022
+IN6664 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:12 MSK 2022
+CX1120 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:12 MSK 2022
+WX1290 is taking off Thu Dec 08 20:34:12 MSK 2022
+LM4158 is leaving zone. Goodbye! Thu Dec 08 20:34:12 MSK 2022
+LD6585 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:13 MSK 2022
+HD0767 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:13 MSK 2022
+IN6664 is taking off Thu Dec 08 20:34:13 MSK 2022
+EQ2446 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:14 MSK 2022
+CX1120 is parked on place 11 Thu Dec 08 20:34:14 MSK 2022
+UM1487 is waiting for landing line Thu Dec 08 20:34:14 MSK 2022
+WX1290 is leaving zone. Goodbye! Thu Dec 08 20:34:15 MSK 2022
+GO8343 is waiting for landing line Thu Dec 08 20:34:15 MSK 2022
+LD6585 is parked on place 21 Thu Dec 08 20:34:15 MSK 2022
+FU8568 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:15 MSK 2022
+HD0767 is taking off Thu Dec 08 20:34:16 MSK 2022
+IN6664 is leaving zone. Goodbye! Thu Dec 08 20:34:16 MSK 2022
+EQ2446 is taking off Thu Dec 08 20:34:16 MSK 2022
+UM1487 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:17 MSK 2022
+GO8343 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:17 MSK 2022
+FU8568 is taking off Thu Dec 08 20:34:17 MSK 2022
+HD0767 is leaving zone. Goodbye! Thu Dec 08 20:34:18 MSK 2022
+GY1347 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:18 MSK 2022
+EQ2446 is leaving zone. Goodbye! Thu Dec 08 20:34:18 MSK 2022
+UM1487 is parked on place 71 Thu Dec 08 20:34:18 MSK 2022
+PU3246 is waiting for landing line Thu Dec 08 20:34:19 MSK 2022
+GO8343 is parked on place 81 Thu Dec 08 20:34:19 MSK 2022
+FU8568 is leaving zone. Goodbye! Thu Dec 08 20:34:19 MSK 2022
+GY1347 is taking off Thu Dec 08 20:34:20 MSK 2022
+CO4203 is waiting for landing line Thu Dec 08 20:34:20 MSK 2022
+PU3246 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:20 MSK 2022
+GY1347 is leaving zone. Goodbye! Thu Dec 08 20:34:21 MSK 2022
+CO4203 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:21 MSK 2022
+RG2954 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:21 MSK 2022
+PU3246 is parked on place 11 Thu Dec 08 20:34:21 MSK 2022
+PP2322 is waiting for landing line Thu Dec 08 20:34:22 MSK 2022
+CO4203 is parked on place 21 Thu Dec 08 20:34:22 MSK 2022
+RG2954 is taking off Thu Dec 08 20:34:22 MSK 2022
+PP2322 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:23 MSK 2022
+RG2954 is leaving zone. Goodbye! Thu Dec 08 20:34:23 MSK 2022
+RO9767 is waiting for landing line Thu Dec 08 20:34:23 MSK 2022
+PP2322 is parked on place 41 Thu Dec 08 20:34:24 MSK 2022
+CT5255 is waiting for landing line Thu Dec 08 20:34:24 MSK 2022
+RO9767 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:24 MSK 2022
+CT5255 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:24 MSK 2022
+NQ4704 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:25 MSK 2022
+RO9767 is parked on place 01 Thu Dec 08 20:34:25 MSK 2022
+BF0287 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:25 MSK 2022
+CT5255 is parked on place 11 Thu Dec 08 20:34:26 MSK 2022
+WJ4362 is waiting for landing line Thu Dec 08 20:34:26 MSK 2022
+NQ4704 is taking off Thu Dec 08 20:34:26 MSK 2022
+GZ8315 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:27 MSK 2022
+BF0287 is taking off Thu Dec 08 20:34:27 MSK 2022
+CW2077 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:27 MSK 2022
+WJ4362 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:27 MSK 2022
+NQ4704 is leaving zone. Goodbye! Thu Dec 08 20:34:28 MSK 2022
+ZE7527 is waiting for landing line Thu Dec 08 20:34:28 MSK 2022
+GZ8315 is taking off Thu Dec 08 20:34:28 MSK 2022
+BF0287 is leaving zone. Goodbye! Thu Dec 08 20:34:29 MSK 2022
+CW2077 is taking off Thu Dec 08 20:34:29 MSK 2022
+CR8452 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:29 MSK 2022
+WJ4362 is parked on place 41 Thu Dec 08 20:34:30 MSK 2022
+ZE7527 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:30 MSK 2022
+GZ8315 is leaving zone. Goodbye! Thu Dec 08 20:34:30 MSK 2022
+CW2077 is leaving zone. Goodbye! Thu Dec 08 20:34:30 MSK 2022
+WO1595 is waiting for landing line Thu Dec 08 20:34:31 MSK 2022
+CR8452 is taking off Thu Dec 08 20:34:31 MSK 2022
+ZE7527 is parked on place 11 Thu Dec 08 20:34:31 MSK 2022
+WO1595 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:32 MSK 2022
+OY2265 is waiting for landing line Thu Dec 08 20:34:32 MSK 2022
+CR8452 is leaving zone. Goodbye! Thu Dec 08 20:34:32 MSK 2022
+JL6480 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:33 MSK 2022
+WO1595 is parked on place 21 Thu Dec 08 20:34:33 MSK 2022
+OY2265 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:33 MSK 2022
+JL6480 is taking off Thu Dec 08 20:34:33 MSK 2022
+OZ7625 is waiting for landing line Thu Dec 08 20:34:34 MSK 2022
+OY2265 is parked on place 01 Thu Dec 08 20:34:34 MSK 2022
+JL6480 is leaving zone. Goodbye! Thu Dec 08 20:34:34 MSK 2022
+OZ7625 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:35 MSK 2022
+OZ7625 is parked on place 31 Thu Dec 08 20:34:35 MSK 2022
+BD2844 is waiting for landing line Thu Dec 08 20:34:36 MSK 2022
+BD2844 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:36 MSK 2022
+BD2844 is parked on place 01 Thu Dec 08 20:34:37 MSK 2022
+YC4395 is waiting for landing line Thu Dec 08 20:34:40 MSK 2022
+YC4395 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:40 MSK 2022
+YC4395 is parked on place 01 Thu Dec 08 20:34:40 MSK 2022
+HD9147 is waiting for landing line Thu Dec 08 20:34:40 MSK 2022
+OR8098 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:41 MSK 2022
+HD9147 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:41 MSK 2022
+VE8589 is waiting for landing line Thu Dec 08 20:34:41 MSK 2022
+OR8098 is taking off Thu Dec 08 20:34:42 MSK 2022
+HD9147 is parked on place 11 Thu Dec 08 20:34:42 MSK 2022
+VE8589 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:42 MSK 2022
+OR8098 is leaving zone. Goodbye! Thu Dec 08 20:34:42 MSK 2022
+BA2665 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:43 MSK 2022
+VE8589 is parked on place 21 Thu Dec 08 20:34:43 MSK 2022
+BA2665 is taking off Thu Dec 08 20:34:43 MSK 2022
+PB5888 is waiting for landing line Thu Dec 08 20:34:44 MSK 2022
+BA2665 is leaving zone. Goodbye! Thu Dec 08 20:34:44 MSK 2022
+PB5888 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:44 MSK 2022
+BG5551 is waiting for landing line Thu Dec 08 20:34:45 MSK 2022
+PB5888 is parked on place 01 Thu Dec 08 20:34:45 MSK 2022
+BG5551 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:45 MSK 2022
+BG5551 is parked on place 21 Thu Dec 08 20:34:45 MSK 2022
+IE3861 is waiting for landing line Thu Dec 08 20:34:46 MSK 2022
+IE3861 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:46 MSK 2022
+IE3861 is parked on place 01 Thu Dec 08 20:34:47 MSK 2022
+QZ2920 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:47 MSK 2022
+QZ2920 is taking off Thu Dec 08 20:34:47 MSK 2022
+QZ2920 is leaving zone. Goodbye! Thu Dec 08 20:34:48 MSK 2022
+LT7747 is waiting for landing line Thu Dec 08 20:34:48 MSK 2022
+IV2228 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:48 MSK 2022
+LT7747 is taxiing by path 10 A M PARK  Thu Dec 08 20:34:48 MSK 2022
+IV2228 is taking off Thu Dec 08 20:34:49 MSK 2022
+LT7747 is parked on place 11 Thu Dec 08 20:34:49 MSK 2022
+IV2228 is leaving zone. Goodbye! Thu Dec 08 20:34:49 MSK 2022
+DZ0765 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:50 MSK 2022
+ZZ9266 is taxiing by path 10 PARK B M A  Thu Dec 08 20:34:50 MSK 2022
+DZ0765 is taking off Thu Dec 08 20:34:50 MSK 2022

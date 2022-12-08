@@ -1,4 +1,4 @@
-package com.example.AirportREST.AirportLogic.EventGenerator.logger;
+package com.example.AirportREST.AirportLogic.logger;
 
 import java.io.File;
 import java.io.FileWriter;

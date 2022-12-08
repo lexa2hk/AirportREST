@@ -8,20 +8,15 @@ package com.example.AirportREST.AirportLogic.Terminal;
 //import org.json.simple.JSONObject;
 
 import com.example.AirportREST.AirportLogic.Aircraft.Aircraft;
-import com.example.AirportREST.AirportLogic.Aircraft.Airplane.Airplane;
-import com.example.AirportREST.AirportLogic.EventGenerator.logger.logger;
+import com.example.AirportREST.AirportLogic.logger.logger;
 import com.example.AirportREST.entity.AircraftEntity;
 import com.example.AirportREST.exception.AircraftAlreadyExists;
 import com.example.AirportREST.repository.AircraftRepo;
 import com.example.AirportREST.service.AircraftService;
-import com.example.AirportREST.service.AircraftTermService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
-import java.sql.SQLException;
+import java.io.IOException;
 import java.sql.Timestamp;
 import java.util.*;
 
@@ -52,7 +47,7 @@ public class Terminal implements logger {
 
 
 
-    public Terminal() {
+    public Terminal() throws IOException {
         taxiways.put("A", true);
         taxiways.put("B", true);
         taxiways.put("C", true);
@@ -149,7 +144,7 @@ public class Terminal implements logger {
 
     }
 
-    public void handleEvent(ArrayDeque<String> eventQueue){
+    public void handleEvent(ArrayDeque<String> eventQueue) throws IOException {
 //        queue contains flightcodes which
         // method will handle events from queue
         // 1. get flightcode from queue, if final state then remove from queue

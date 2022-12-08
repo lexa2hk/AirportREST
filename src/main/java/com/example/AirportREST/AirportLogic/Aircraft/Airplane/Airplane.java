@@ -3,7 +3,7 @@ package com.example.AirportREST.AirportLogic.Aircraft.Airplane;
 
 import com.example.AirportREST.AirportLogic.Aircraft.Aircraft;
 import com.example.AirportREST.AirportLogic.Aircraft.Interface.AircraftOptions;
-import com.example.AirportREST.AirportLogic.EventGenerator.logger.logger;
+import com.example.AirportREST.AirportLogic.logger.logger;
 
 import java.io.IOException;
 import java.io.Serializable;
