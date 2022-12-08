@@ -10,8 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
-import java.io.IOException;
-import java.io.Serializable;
 import java.sql.Timestamp;
 import java.util.*;
 
@@ -21,7 +19,7 @@ import java.util.Date;
 import static java.lang.Thread.sleep;
 
 @Service
-public class Application implements Serializable {
+public class Application {
     @Autowired
     private AircraftService aircraftService;
 
@@ -49,8 +47,8 @@ public class Application implements Serializable {
         gen.tryCreateRandomEvent(eventQueue);
     }
 
-    @Scheduled(fixedRate = 3000)
-    public void processEvent() throws IOException {
+    @Scheduled(fixedRate = 300)
+    public void processEvent() {
         terminal.handleEvent(eventQueue);
     }
 
