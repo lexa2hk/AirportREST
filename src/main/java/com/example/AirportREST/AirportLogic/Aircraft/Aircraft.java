@@ -1,6 +1,8 @@
 package com.example.AirportREST.AirportLogic.Aircraft;
 
-public abstract class Aircraft {
+import java.io.Serializable;
+
+public abstract class Aircraft implements Serializable {
     public enum Status {PARKING, STEERING, STOP_ON_LANE, ACCELERATION, TAKEOFF, FLIGHT, LANDING};
     public enum Type {AIRPLANE, HELICOPTER};
     // type - прилет вылет

@@ -4,13 +4,16 @@ import com.example.AirportREST.AirportLogic.Aircraft.Aircraft;
 import com.example.AirportREST.AirportLogic.Aircraft.Interface.AircraftOptions;
 import com.example.AirportREST.AirportLogic.EventGenerator.logger.logger;
 
-public class Helicopter extends Aircraft implements AircraftOptions, logger {
+import java.io.IOException;
+import java.io.Serializable;
+
+public class Helicopter extends Aircraft implements AircraftOptions, logger, Serializable {
     public Helicopter(String status, String type, String model) {
         super(status, type, model);
     }
 
     @Override
-    public String parking() {
+    public String parking() throws IOException {
         this.status= Status.PARKING;
         String message="Status of "+model+" has switched to: "+status;
         logger.log(message);
@@ -18,7 +21,7 @@ public class Helicopter extends Aircraft implements AircraftOptions, logger {
     }
 
     @Override
-    public String steering() {
+    public String steering() throws IOException {
         this.status= Status.STEERING;
         String message="Status of "+model+" has switched to: "+status;
         logger.log(message);
@@ -26,7 +29,7 @@ public class Helicopter extends Aircraft implements AircraftOptions, logger {
     }
 
     @Override
-    public String stopOnLane() {
+    public String stopOnLane() throws IOException {
         this.status= Status.STOP_ON_LANE;
         String message="Status of "+model+" has switched to: "+status;
         logger.log(message);
@@ -34,7 +37,7 @@ public class Helicopter extends Aircraft implements AircraftOptions, logger {
     }
 
     @Override
-    public String acceleration() {
+    public String acceleration() throws IOException {
         this.status= Status.ACCELERATION;
         String message="Status of "+model+" has switched to: "+status;
         logger.log(message);
@@ -42,7 +45,7 @@ public class Helicopter extends Aircraft implements AircraftOptions, logger {
     }
 
     @Override
-    public String takeoff() {
+    public String takeoff() throws IOException {
         this.status=Status.TAKEOFF;
         String message="Status of "+model+" has switched to: "+status;
         logger.log(message);
@@ -50,7 +53,7 @@ public class Helicopter extends Aircraft implements AircraftOptions, logger {
     }
 
     @Override
-    public String flight() {
+    public String flight() throws IOException {
         this.status= Status.FLIGHT;
         String message="Status of "+model+" has switched to: "+status;
         logger.log(message);
@@ -58,7 +61,7 @@ public class Helicopter extends Aircraft implements AircraftOptions, logger {
     }
 
     @Override
-    public String landing() {
+    public String landing() throws IOException {
         this.status= Status.LANDING;
         String message="Status of "+model+" has switched to: "+status;
         logger.log(message);
@@ -66,7 +69,7 @@ public class Helicopter extends Aircraft implements AircraftOptions, logger {
     }
 
     @Override
-    public String getInfo(){
+    public String getInfo() throws IOException {
         String message="Helicopter info: "+status+" "+type+" "+model;
         logger.log(message);
         return message;

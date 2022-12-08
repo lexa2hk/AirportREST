@@ -11,13 +11,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.io.Serializable;
 import java.sql.SQLException;
 import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.Random;
 
 @Component
-public class EventGenerator {
+public class EventGenerator implements Serializable {
 //    AirportDBmySQL database;
     @Autowired
     Terminal terminal;

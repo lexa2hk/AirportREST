@@ -1,9 +1,10 @@
 package com.example.AirportREST.entity;
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 @Entity
-public class AircraftEntity {
+public class AircraftEntity implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;

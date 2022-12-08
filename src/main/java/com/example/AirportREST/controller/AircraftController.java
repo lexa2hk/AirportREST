@@ -7,9 +7,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.io.Serializable;
+
 @RestController
 @RequestMapping("/aircraft")
-public class AircraftController {
+public class AircraftController implements Serializable {
 
     @Autowired
     private AircraftService aircraftService;

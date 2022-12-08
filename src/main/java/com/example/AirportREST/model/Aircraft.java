@@ -1,4 +1,6 @@
 package com.example.AirportREST.model;
 
-public class Aircraft {
+import java.io.Serializable;
+
+public class Aircraft implements Serializable {
 }

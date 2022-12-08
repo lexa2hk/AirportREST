@@ -1,6 +1,8 @@
 package com.example.AirportREST.exception;
 
-public class AircraftNotFoundException extends Exception {
+import java.io.Serializable;
+
+public class AircraftNotFoundException extends Exception implements Serializable {
     public AircraftNotFoundException(String message) {
         super(message);
     }
